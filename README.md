@@ -12,12 +12,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="ttps://github.com/hangnik" width="100px"><img src="h;" alt=""/><br /><sub><b>FE 팀원 : 김하영 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박예빈</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/SMJ426"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 신민재 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/dpfka97"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이예람 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Jaeyounging"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이재영 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/hanhj0516"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 한혜지 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/97607752?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김하영</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/97607752?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박예빈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/SMJ426"><img src="https://avatars.githubusercontent.com/u/122437649?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 신민재 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dpfka97"><img src="https://avatars.githubusercontent.com/u/138556222?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이예람 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Jaeyounging"><img src="https://avatars.githubusercontent.com/u/87270448?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이재영 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hanhj0516"><img src="https://avatars.githubusercontent.com/u/136154006?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 한혜지 </b></sub></a><br /></td>
      <tr/>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 정지현 </b></sub></a><br /></td>
     </tr>
