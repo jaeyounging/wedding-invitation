@@ -12,8 +12,8 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/97607752?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김하영</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/97607752?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박예빈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hangnik"><img src="https://avatars.githubusercontent.com/u/97607752?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 김하영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/yebinholmes"><img src="https://avatars.githubusercontent.com/u/115566147?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박예빈</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/SMJ426"><img src="https://avatars.githubusercontent.com/u/122437649?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 신민재 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/dpfka97"><img src="https://avatars.githubusercontent.com/u/138556222?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이예람 </b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Jaeyounging"><img src="https://avatars.githubusercontent.com/u/87270448?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이재영 </b></sub></a><br /></td>
